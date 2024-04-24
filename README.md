@@ -19,7 +19,7 @@ The solution has to be scalable, so create two separate projects (sub-processes)
 
 - One for the **Dispatcher** (add to queue).
 - Another one for the **Performer** (consume queue).
-- Make sure you use a connection to an UiPath Orchestrator for testing.
+- Make sure you use a connection to the [**UiPath Orchestrator**](https://docs.uipath.com/orchestrator/standalone/2023.10/user-guide/about-queues-and-transactions) for testing.
 
 Here are the steps performed by the **Robot** in the **Dispatcher**:
 
