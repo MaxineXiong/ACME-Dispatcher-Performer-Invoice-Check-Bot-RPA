@@ -45,7 +45,7 @@ Note: Navigation can be achieved in multiple ways by the robot – choose whiche
 Constraints to follow in the development, using the **REFramework**:
 
 1. TransactionItem datatype should be a **QueueItem**. The process should **recover** and **retry 2 times** in case of errors in navigation between **Invoice Search** and **Invoices – Search Results** pages. One transaction is the action of navigating to the **Invoices Search** page, searching for the **Invoice Number** and scraping the values from the resulting one row table.
-2. Create a separate workflow file for the Login to ACME. File input arguments: *URL* \<String>, *Username \*<String>, *Password* \<SecureString>.
+2. Create a separate workflow file for the Login to ACME. File input arguments: *URL* \<String>, *Username* \<String>, *Password* \<SecureString>.
 3. Create a separate workflow file closing ACME.
 4. Add the **ACME_URL** and **ACME_Credential** to the Excel Config file.
 5. Populate **InitAllApplications.xaml** from the Framework folder with Invoking the Login to ACME.
