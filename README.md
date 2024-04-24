@@ -125,7 +125,7 @@ Step 7: Follow the system instructions to complete the installation of **UiPath 
 </details> 
 
 <details>  
-<summary> Please also follow these steps below to connect your local machine to the UiPath Automation Cloud for deploying this workflow (if desired):
+<summary> Please also follow these steps below to connect your local machine to the UiPath Automation Cloud for accessing the UiPath Orchestrator Queue or deploying this workflow (if desired):
 </summary>
 
 ***
