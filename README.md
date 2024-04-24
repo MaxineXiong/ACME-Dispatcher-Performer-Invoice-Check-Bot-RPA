@@ -56,12 +56,10 @@ Constraints to follow in the development, using the **REFramework**:
 
 **Important Note**: Don’t use external file references outside of the project folder (including Orchestrator Assets). Place all the used files within the project folder only.
 
-_You can check out the **automation demo video for the solution** below_:
+_You can check out the **automation demo video for the solution** by clicking on the badge below_:
 
 
-https://github.com/MaxineXiong/ACME-Vendor-Check-Bot-RPA/assets/55864839/34a7a042-8b4c-4b20-8778-587813d1e539
-
-
+[![View Demo - ACME-Dispatcher-Performer-Invoice-Check-Bot](https://img.shields.io/badge/View_Demo-ACME_Invoice_Check_Bot-fa4616?style=for-the-badge)](https://1drv.ms/v/s!AhxVr7ogXVBRlS698ljqePEyIuZX)
 
 
 
